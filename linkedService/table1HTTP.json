@@ -1,0 +1,12 @@
+{
+	"name": "table1HTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Vandana-Chandrashekar/Olympic-Data-Analytics/main/Teams.csv",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
