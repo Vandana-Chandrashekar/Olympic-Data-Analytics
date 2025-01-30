@@ -1,0 +1,9 @@
+{
+	"name": "tokyolympic-data-factory",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57852a63-89ce-4bac-8b37-15b2109a7cbb",
+		"tenantId": "15924664-79ae-4c69-b83e-624fbca5d990"
+	}
+}
